@@ -1,3 +1,5 @@
+// Feriados Bancários 2020 ~ 2078
+
 const feriados = [
   2020-01-01,
   2020-02-24,
@@ -708,3 +710,13 @@ const feriados = [
   2078-11-15,
   2078-12-25, 
 ]
+
+// Fonte: ANBIMA
+
+// 1) De acordo com a Resolução n º 2.516, a partir do ano 2000, a quinta-feira da Semana Santa foi considerada dia útil. Esta mesma Resolução dispensou as instituições financeiras do cumprimento do horário mínimo de funcionamento, desde que informem ao público.
+
+// 2) A lei nº 9.504/97 estabeleceu que, em ano eleitoral, o 1º turno das eleições será realizado no primeiro domingo de outubro; e o 2º turno, quando houver, no último domingo do referido mês.
+
+// 3) De acordo com a Resolução nº 2.596/99, no último dia útil do ano não haverá atendimento ao público.
+
+// 4) Esta listagem não inclui os feriados municipais, eleições e o último dia do ano. O critério adotado foi o de indicar os feriados em que não há sensibilização das Reservas Bancárias.
